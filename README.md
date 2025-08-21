@@ -14,7 +14,7 @@ Bu proje, **Tkinter** arayüzü ile **OpenCV** kullanarak temel görüntü işle
 
 **Örnek İşlem Ekranı (Harris Köşe Tespiti)**
   
-![Parametre Girerek Uygulama](resmi_dosyalardan_sectikten_sonra_parametre_girerek_filtreleme_islemini_uygulama.png)
+![Parametre Girerek Uygulama](sonuc.png)
 
 ---
 
