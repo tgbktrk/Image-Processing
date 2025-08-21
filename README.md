@@ -10,11 +10,11 @@ Bu proje, **Tkinter** arayüzü ile **OpenCV** kullanarak temel görüntü işle
 
 **Ana Sayfa**
   
-![Ana Sayfa](ana_sayfa.png)
+![Ana Sayfa](screenshots/ana_sayfa.png)
 
 **Örnek İşlem Ekranı (Harris Köşe Tespiti)**
   
-![Parametre Girerek Uygulama](sonuc.png)
+![Parametre Girerek Uygulama](screenshots/sonuc.png)
 
 ---
 
