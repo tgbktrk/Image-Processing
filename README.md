@@ -129,5 +129,5 @@ pip install opencv-python Pillow numpy matplotlib
 - Basit bir **test görselleri** klasörü eklemek
 
 ## 🧑‍💻 Author
-**Tuğba Aktürkk**  
+**Tuğba Aktürk**  
 Computer Engineering Student | Junior Software Developer
