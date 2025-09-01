@@ -128,6 +128,6 @@ pip install opencv-python Pillow numpy matplotlib
 - **Kaydet** butonu ile çıktı görselleri diske aktarma
 - Basit bir **test görselleri** klasörü eklemek
 
-## 🧑‍💻 Author
+## 👩‍💻 Author
 **Tuğba Aktürk**  
 Computer Engineering Student | Junior Software Developer
